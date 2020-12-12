@@ -1,0 +1,3 @@
+﻿  emp_athome.c
+C:\Users\thake\Desktop\Sem 1\BTP 100\Worskhop\WS05\at_home\emp_athome.c(205,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  at_home.vcxproj -> C:\Users\thake\Desktop\Sem 1\BTP 100\Worskhop\WS05\at_home\Debug\at_home.exe
