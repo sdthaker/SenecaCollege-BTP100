@@ -1,0 +1,4 @@
+﻿  example1.c
+C:\Users\thake\source\repos\Practise\example1.c(340,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\thake\source\repos\Practise\example1.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  CP4P_W1.vcxproj -> C:\Users\thake\source\repos\Practise\Debug\CP4P_W1.exe

@@ -1,0 +1,4 @@
+C:\Users\thake\source\repos\CP4P_W1\Debug\CP4P_W1.exe
+C:\Users\thake\source\repos\CP4P_W1\Debug\CP4P_W1.pdb
+C:\Users\thake\source\repos\Practise\Debug\CP4P_W1.exe
+C:\Users\thake\source\repos\Practise\Debug\CP4P_W1.pdb
