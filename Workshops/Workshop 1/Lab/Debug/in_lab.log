@@ -1,0 +1,6 @@
+﻿  cashRegister.c
+C:\Users\thake\Desktop\Sem 1\BTP 100\IPC-Workshops-master\WS02\in_lab\cashRegister.c(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\thake\Desktop\Sem 1\BTP 100\IPC-Workshops-master\WS02\in_lab\cashRegister.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\thake\Desktop\Sem 1\BTP 100\IPC-Workshops-master\WS02\in_lab\cashRegister.c(31,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\thake\Desktop\Sem 1\BTP 100\IPC-Workshops-master\WS02\in_lab\cashRegister.c(21,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  in_lab.vcxproj -> C:\Users\thake\Desktop\Sem 1\BTP 100\IPC-Workshops-master\WS02\in_lab\Debug\in_lab.exe
