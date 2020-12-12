@@ -1,0 +1,2 @@
+C:\Users\thake\Desktop\Sem 1\BTP 100\IPC-Workshops-master\WS03\at_home\Debug\at_home.exe
+C:\Users\thake\Desktop\Sem 1\BTP 100\IPC-Workshops-master\WS03\at_home\Debug\at_home.pdb
