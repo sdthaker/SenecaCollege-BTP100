@@ -3,7 +3,7 @@
 
 ### First Semester
 
-IPC144: Intro to Programing using C
+BTP100: Intro to PrograMming using C
 
 ### Second Semester
 
