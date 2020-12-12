@@ -8,6 +8,9 @@ This repository contains Workshops, Projects, Notes, and other additional course
 - [x] WS04 - Arrays
 - [x] WS05 - Structures
 
-### Mildstone
-- [x] Assginment 1 - Functions, Structs
-- [x] Assignment 2 - Functions, Pointers, Files, Strings
+### Milestone
+- [x] Assginment 1 - Functions, Structs, Strings
+- [x] Assignment 2 - Functions, Pointers, Files, Strings, Structs, Arrays
+
+### Final Assessment
+- [x] Functions, Structs, Pointers, Files, Strings, Arrays
