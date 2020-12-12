@@ -1,0 +1,5 @@
+﻿  functions.c
+C:\Users\thake\source\repos\Vending Machine 1.0\functions.c(36,10): warning C4473: 'scanf' : not enough arguments passed for format string
+C:\Users\thake\source\repos\Vending Machine 1.0\functions.c(36,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\thake\source\repos\Vending Machine 1.0\functions.c(36,10): message : the missing variadic argument 2 is required by format string '%c'
+  Vending Machine.vcxproj -> C:\Users\thake\source\repos\Vending Machine 1.0\Debug\Vending Machine.exe

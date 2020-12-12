@@ -1,0 +1,4 @@
+C:\Users\thake\source\repos\Vending Machine\Debug\Vending Machine.exe
+C:\Users\thake\source\repos\Vending Machine\Debug\Vending Machine.pdb
+C:\Users\thake\source\repos\Vending Machine 1.0\Debug\Vending Machine.exe
+C:\Users\thake\source\repos\Vending Machine 1.0\Debug\Vending Machine.pdb
