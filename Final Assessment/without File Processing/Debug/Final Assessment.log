@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\stock.h(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\main.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\main.c(22,1): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  stock.c
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\stock.h(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\stock.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\stock.c(114,23): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\stock.c(125,23): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\stock.c(102,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\stock.c(271,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\stock.c(274,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Final Assessment.vcxproj -> C:\Users\thake\Desktop\Sem 1\BTP 100\Final Assessment (wout File Processing)\x64\Debug\Final Assessment.exe
