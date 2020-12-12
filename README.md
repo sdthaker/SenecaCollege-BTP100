@@ -1,6 +1,6 @@
 
 # Programming Fundamentals Using C
-This repository contains Workshops, Projects, Notes, and other additional course work for Fall 2020 BTP100 emphasizing topics such as Computation, Arrays, Structures, Functions + Pointers, Files and Strings.
+This repository contains Workshops, Projects, Notes, and other additional course work for Fall 2020 BTP100 emphasizing topics such as Computation, Arrays, Structures, Functions, Pointers, Files and Strings.
 
 ### Workshop
 - [x] WS01 - Computations
