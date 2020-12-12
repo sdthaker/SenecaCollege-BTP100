@@ -1,9 +1,7 @@
-# Seneca-College
-Software Development Degree
-
+Seneca_College
 School Works
 First Semester
-BTP100: Intro to Programing using C
+IPC144: Intro to Programing using C
 
 Second Semester
 OOP244: Object Oriented Programming(C++)
