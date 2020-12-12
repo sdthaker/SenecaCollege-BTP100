@@ -1,0 +1,4 @@
+C:\Users\thake\Desktop\Sem 1\BTP 100\Assignment 1\BTP-Project-master\A1\MS4\Debug\A1MS4.exe
+C:\Users\thake\Desktop\Sem 1\BTP 100\Assignment 1\BTP-Project-master\A1\MS4\Debug\A1MS4.pdb
+C:\Users\thake\Desktop\Sem 1\BTP 100\Assignment\A1\MS4\Debug\A1MS4.exe
+C:\Users\thake\Desktop\Sem 1\BTP 100\Assignment\A1\MS4\Debug\A1MS4.pdb
