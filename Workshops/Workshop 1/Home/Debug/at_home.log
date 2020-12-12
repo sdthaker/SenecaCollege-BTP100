@@ -1,0 +1,3 @@
+﻿  cashRegister.c
+C:\Users\thake\Desktop\Sem 1\BTP 100\IPC-Workshops-master\WS02\at_home\cashRegister.c(18,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  at_home.vcxproj -> C:\Users\thake\Desktop\Sem 1\BTP 100\IPC-Workshops-master\WS02\at_home\Debug\at_home.exe
