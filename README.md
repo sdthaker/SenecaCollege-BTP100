@@ -1,6 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+
 # Programming Fundamentals Using C
 This repository contains Workshops, Projects, Notes, and other additional course work for Fall 2020 BTP100 emphasizing topics such as Computation, Arrays, Structures, Functions, Pointers, Files and Strings.
 
